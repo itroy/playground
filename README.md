@@ -15,6 +15,11 @@ Built with:
 ## Usage
 Add usage details here.
 
+## Task List
+ - [x] Set up Vite, Tailwind & React with TypeScript
+ - [ ] Create component build area
+
+
 <!-- Aim: Log the step by step process to create a forkable base repo for future coding projects. -->
 
 <!-- Goal: make it beautiful -->
@@ -23,11 +28,20 @@ Add usage details here.
 <!-- Update README file -->
 <!--  -->
 
-#### **Reference Links**
+### Reference Links
 
-Vite
+**React**
+- [React Docs (Beta)](https://beta.reactjs.org/)
+
+**TailwindCSS**
+- [TailwindCSS](https://tailwindcss.com/)
+- [TailwindCSS Docs](https://tailwindcss.com/docs/installation)
+- [Tailwind CSS Cheatsheet](https://tailwindcomponents.com/cheatsheet/)
+
+**Vite**
 - [Vite Docs](https://vitejs.dev/guide/)
-- 
-GitHub
+ 
+**GitHub**
 - [GitHib Docs](https://docs.github.com/en)
+- [Gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 - [Markdown Cheatsheet](https://docs.github.com/en)
